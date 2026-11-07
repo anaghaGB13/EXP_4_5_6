@@ -1,2 +1,2 @@
-ai  and ml
+ai and ml
 project management git
